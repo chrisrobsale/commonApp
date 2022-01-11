@@ -6,4 +6,4 @@ changelogHelper.convert = (num, size) => {
     return s;
 }
 
-export default changelogHelper;
+module.exports = changelogHelper;
